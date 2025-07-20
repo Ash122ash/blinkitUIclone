@@ -43,7 +43,7 @@ Android Emulator (Testing)
 #outputs
 
 
-<img width="633" height="1101" alt="Screenshot 2025-07-20 185337" src="https://github.com/user-attachments/assets/8aac3cd1-0d17-4b5a-85ad-1c308a5c5dcd" />
+<img width="300" height="500" alt="Screenshot 2025-07-20 185337" src="https://github.com/user-attachments/assets/8aac3cd1-0d17-4b5a-85ad-1c308a5c5dcd" />
 
 <img width="639" height="1092" alt="Screenshot 2025-07-20 185317" src="https://github.com/user-attachments/assets/81f48e36-8133-42b4-a08e-093d19b30f94" />
 
